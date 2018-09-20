@@ -1,0 +1,106 @@
+body {
+  background-color: #000;
+  
+}
+
+#root{
+  background-color: white;
+}
+.bg-custom{
+  background-color: #222222;
+}
+.container{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 1.1em;
+}
+
+#main{
+  height: auto;
+  owerflow: auto;
+  margin-bottom: 10px;
+}
+
+a.navbar-brand{
+  padding: 0px;
+  
+}
+
+#slika1{
+  margin: 0 auto;
+}
+
+#menu{
+  text-align: center;
+
+}
+
+#map{
+  border: 2px solid #222222;
+  margin: 0 auto;
+}
+
+#map2{
+  border: 2px solid #222222;
+  margin: 0 auto;
+}
+
+#naslov{
+  margin: 0 auto;
+}
+
+#container_loc{
+  text-align: center;
+}
+
+#lokacija_senoina{
+  border: 5px solid #222222;
+  border-radius: 5%;
+  
+}
+
+
+#galerija{
+  text-align: center;
+}
+
+#lokacija_scc{
+  border: 5px solid #222222;
+  border-radius: 5%;
+  
+}
+
+.glyphicon{
+  font-size: 50px;
+}
+
+#jumbotron{
+  background-color: #222222;
+  color: white;
+}
+
+#kontakt_{
+  text-align: center;
+}
+
+#senoina_kontakt{
+color:white;
+padding: 5px;
+background-color: #222222;
+border: 2px solid white;
+border-radius: 5%;
+}
+
+#scc_kontakt {
+color: white;
+padding: 5px;
+background-color: #222222;
+border: 2px solid white;
+border-radius: 5%;
+}
+
+#footer{
+  background-color: #222222;
+  color: white;
+  text-align: center;
+}
+
